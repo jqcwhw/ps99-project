@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Enhanced Roblox Multi-Instance Manager - Desktop App
 
-## Getting Started
+## Features
+- Native desktop application with embedded server
+- Launch multiple Roblox instances simultaneously
+- Real-time FPS monitoring (30-1000 FPS support)
+- RAM usage tracking and automatic optimization
+- Performance statistics dashboard
+- Cross-platform support (Windows, Mac, Linux)
+- Modern React-based UI with advanced monitoring
 
-First, run the development server:
+## Quick Start
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Option 1: Run Development Version
+1. Install dependencies: `npm install`
+2. Start the app: `npm run electron:dev`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Option 2: Build Desktop App
+1. Install dependencies: `npm install`
+2. Build the app: `npm run electron:build`
+3. Find the built app in the `dist` folder
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Option 3: Standalone Mode
+1. Run: `node electron-standalone.js`
+2. Open http://localhost:5000 in your browser
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Enhanced Performance Features
 
-## Learn More
+### FPS Monitoring System
+- Real-time FPS tracking for all instances
+- Customizable FPS targets (30-1000 FPS)
+- Visual progress bars and statistics
+- Based on FPSPingGraph.lua techniques
 
-To learn more about Next.js, take a look at the following resources:
+### RAM Management
+- System-wide RAM usage monitoring
+- Per-instance memory limits (512MB-16GB)
+- Automatic cleanup when usage exceeds 85%
+- Based on RAMDecrypt optimization methods
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Advanced Dashboard
+- Performance cards with live statistics
+- Interactive toggle switches for settings
+- Real-time progress bars and indicators
+- Modern gradient design with responsive layout
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Technical Implementation
 
-## Deploy on Vercel
+### Multi-Instance Engine
+- ROBLOX_singletonEvent mutex bypass
+- UWP package cloning support
+- Multiple launch methods (Direct, Protocol, UWP, PowerShell)
+- Cross-platform process management
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Performance Optimization
+- ClientAppSettings.json FPS unlocking
+- DFIntTaskSchedulerTargetFps modification
+- PowerShell-based memory monitoring
+- Automatic resource optimization
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Anti-Detection Methods
+- Mutex management and bypass
+- Registry modification support
+- Process isolation techniques
+- Based on analysis of 19+ projects
+
+## Development Commands
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run electron:dev` - Start Electron app in development
+- `npm run electron:build` - Build desktop application
+- `npm run db:push` - Push database schema changes
+
+## Requirements
+- Node.js 18+ (Download from https://nodejs.org/)
+- Modern web browser (for standalone mode)
+- 4GB+ RAM recommended for multiple instances
+
+Created: January 2025
+Version: Enhanced Edition with Advanced Performance Monitoring
+Technology: React + Node.js + Electron + PostgreSQL
