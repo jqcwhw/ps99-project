@@ -1,0 +1,65 @@
+appId: com.robloxmanager.multiinstance
+productName: Roblox Multi-Instance Manager
+artifactName: ${productName}-${version}-${platform}-${arch}.${ext}
+
+directories:
+  buildResources: build
+  output: release
+
+files:
+  - dist/**/*
+  - electron-main.js
+  - electron-preload.js
+  - package.json
+  - node_modules/**/*
+
+extraFiles:
+  - from: ModdedRobloxClients
+    to: ModdedRobloxClients
+    filter: 
+      - "**/*"
+
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+        - ia32
+  requestedExecutionLevel: requireAdministrator
+  icon: assets/icon.ico
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  installerIcon: assets/icon.ico
+  uninstallerIcon: assets/icon.ico
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: Roblox Multi-Instance Manager
+
+mac:
+  target:
+    - target: dmg
+      arch:
+        - x64
+        - arm64
+  icon: assets/icon.icns
+  category: public.app-category.games
+
+linux:
+  target:
+    - target: AppImage
+      arch:
+        - x64
+  icon: assets/icon.png
+  category: Game
+
+publish:
+  provider: github
+  owner: your-username
+  repo: roblox-multi-instance-manager
+
+afterSign: scripts/notarize.js
+
+compression: normal
+electronVersion: latest
