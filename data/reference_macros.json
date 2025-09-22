@@ -1,0 +1,285 @@
+{
+  "macro_library": {
+    "ps99_direct_memory_collector": {
+      "name": "PS99 Direct Memory Collector",
+      "type": "advanced_automation",
+      "language": "AutoHotkey",
+      "description": "Advanced script for collecting eggs without teleporting or moving using direct memory scanning",
+      "key_features": [
+        "Direct memory address scanning",
+        "Background operation without game disruption",
+        "Multi-threading for performance",
+        "Merchant stock detection without proximity",
+        "Configurable coin spending limits",
+        "Real-time statistics tracking"
+      ],
+      "memory_addresses": {
+        "processName": "RobloxPlayerBeta.exe",
+        "eggOffsets": {
+          "Angelus": "+0x1A3C24",
+          "Agony": "+0x1A3C28", 
+          "Demon": "+0x1A3C2C",
+          "Yeti": "+0x1A3C30",
+          "Griffin": "+0x1A3C34",
+          "Tiger": "+0x1A3C38",
+          "Wolf": "+0x1A3C3C",
+          "Monkey": "+0x1A3C40"
+        },
+        "playerCoinsOffset": "+0x1B2A84",
+        "currentLocationOffset": "+0x1D5F20"
+      },
+      "egg_priorities": {
+        "Angelus": 1,
+        "Agony": 2,
+        "Demon": 3,
+        "Yeti": 4,
+        "Griffin": 5,
+        "Tiger": 6,
+        "Wolf": 7,
+        "Monkey": 8
+      },
+      "egg_prices": {
+        "Angelus": 15000000,
+        "Agony": 10000000,
+        "Demon": 7500000,
+        "Yeti": 5000000,
+        "Griffin": 4000000,
+        "Tiger": 2500000,
+        "Wolf": 1000000,
+        "Monkey": 750000
+      },
+      "automation_techniques": [
+        "Memory pattern scanning",
+        "Non-invasive collection",
+        "Priority-based egg selection",
+        "Coin limit enforcement",
+        "Background monitoring loops"
+      ]
+    },
+    "ps99_window_spy": {
+      "name": "PS99 Window Spy Tool", 
+      "type": "development_tool",
+      "language": "AutoHotkey",
+      "description": "Records mouse coordinates and pixel colors for PS99 egg collection development",
+      "key_features": [
+        "Real-time mouse position tracking",
+        "Pixel color detection",
+        "Window identification",
+        "Control element detection",
+        "Position logging with timestamps",
+        "Screenshot capture capability"
+      ],
+      "usage_patterns": [
+        "Press F1 to start/stop logging",
+        "Press F2 to save current position", 
+        "Press F3 to save screenshot",
+        "Automatic position recording on movement",
+        "Manual position labeling for reference"
+      ]
+    },
+    "coordinate_recorder": {
+      "name": "PS99 Coordinate Recorder",
+      "type": "action_recording",
+      "language": "AutoHotkey", 
+      "description": "Records mouse clicks and pixel colors for accurate scripting with detailed logging",
+      "key_features": [
+        "Mouse click recording with coordinates",
+        "Pixel color capture under cursor",
+        "Keyboard input logging",
+        "Continuous position tracking toggle",
+        "Screenshot saving with timestamp",
+        "Detailed log file generation"
+      ],
+      "controls": [
+        "F1 - Start/Stop Recording",
+        "F2 - Add comment to log",
+        "F3 - Toggle continuous tracking",
+        "F4 - Save screen to file",
+        "Esc - Exit application"
+      ]
+    },
+    "ps99_action_recorder": {
+      "name": "PS99 Action Recorder",
+      "type": "macro_creation",
+      "language": "AutoHotkey",
+      "description": "Records mouse movements, clicks, and keyboard actions formatted in AutoHotkey syntax",
+      "key_features": [
+        "Mouse movement and click recording",
+        "Keyboard action capture",
+        "AutoHotkey syntax formatting", 
+        "Minimum movement thresholds",
+        "Timing and duration tracking",
+        "Executable script generation"
+      ],
+      "output_format": "Generates .ahk files with recorded actions ready for playback"
+    },
+    "ps99_api_enhanced_collector": {
+      "name": "PS99 API-Enhanced Collector",
+      "type": "intelligent_automation",
+      "language": "JavaScript",
+      "description": "Uses Big Games API to enhance egg collection with real-time data and adaptive learning",
+      "key_features": [
+        "Real-time egg data from PS99 API",
+        "Background collection without teleporting",
+        "Adaptive learning from user behavior",
+        "Memory monitoring for efficiency",
+        "Complete egg lifecycle management",
+        "Automatic harvesting and planting"
+      ],
+      "api_endpoints": {
+        "pets": "/v1/pets",
+        "items": "/v1/items", 
+        "eggs": "/v1/eggs",
+        "currencies": "/v1/currencies"
+      },
+      "egg_data": {
+        "Angelus": {
+          "price": 15000000,
+          "rarity": "Mythical", 
+          "growTime": 30
+        },
+        "Agony": {
+          "price": 10000000,
+          "rarity": "Mythical",
+          "growTime": 30
+        },
+        "Demon": {
+          "price": 7500000,
+          "rarity": "Legendary",
+          "growTime": 25
+        }
+      }
+    },
+    "roblox_game_scraper": {
+      "name": "Roblox Game Link Scraper",
+      "type": "data_extraction", 
+      "language": "AutoHotkey",
+      "description": "Extracts metadata from Roblox game links including IDs, creator info, and server details",
+      "key_features": [
+        "Game/Place ID extraction",
+        "Universe ID retrieval",
+        "Creator information",
+        "Player statistics",
+        "Private server detection",
+        "Alternative access methods"
+      ],
+      "extraction_patterns": [
+        "games/(\\d+) - Game ID",
+        "place\\?id=(\\d+) - Place ID", 
+        "places/(\\d+) - Places ID",
+        "API calls to apis.roblox.com",
+        "Universe and game data retrieval"
+      ]
+    },
+    "roblox_data_scraper": {
+      "name": "Roblox Data Scraper (Python)",
+      "type": "comprehensive_scraper",
+      "language": "Python",
+      "description": "Comprehensive tool to extract information from Roblox games, users, and assets",
+      "key_features": [
+        "Multi-type ID detection (games, users, groups, assets)",
+        "Graphical user interface",
+        "Cross-platform compatibility",
+        "Clipboard scanning for multiple IDs",
+        "Export functionality",
+        "Rate limiting and error handling"
+      ],
+      "supported_extractions": [
+        "Game information with visit counts",
+        "User profile data and created games", 
+        "Group information and owned games",
+        "Asset data about catalog items"
+      ]
+    },
+    "enhanced_web_scraper": {
+      "name": "Enhanced Web Scraper (TypeScript)",
+      "type": "intelligent_scraping",
+      "language": "TypeScript",
+      "description": "Intelligent web scraper with automatic data gathering for PS99 and gaming content",
+      "key_features": [
+        "Multiple source targeting",
+        "Automatic content classification",
+        "Rate limiting and rotation",
+        "Gaming-specific keyword extraction",
+        "JSON data storage",
+        "Scheduled automatic scraping"
+      ],
+      "target_sources": [
+        "Roblox game pages",
+        "Big Games official site",
+        "Discord community",
+        "Reddit communities", 
+        "Twitter feeds",
+        "Wiki sites"
+      ]
+    }
+  },
+  "automation_techniques": {
+    "memory_scanning": {
+      "description": "Direct memory reading to detect game state without UI interaction",
+      "advantages": [
+        "No visual interference",
+        "Faster than pixel detection",
+        "More reliable than UI parsing",
+        "Background operation capability"
+      ],
+      "implementation": "Use ReadProcessMemory to scan for specific patterns and values"
+    },
+    "coordinate_recording": {
+      "description": "Precise recording of mouse positions and pixel colors for automation",
+      "advantages": [
+        "Pixel-perfect accuracy",
+        "Color verification",
+        "Timing capture",
+        "Reproducible actions"
+      ],
+      "implementation": "Record coordinates, colors, and timing for playback automation"
+    },
+    "api_integration": {
+      "description": "Using official APIs to get real-time game data",
+      "advantages": [
+        "Official data source",
+        "Real-time updates",
+        "Reliable information",
+        "No scraping restrictions"
+      ],
+      "implementation": "Direct API calls to game servers for authoritative data"
+    },
+    "intelligent_scraping": {
+      "description": "Smart web scraping with content understanding and classification",
+      "advantages": [
+        "Multi-source aggregation",
+        "Content understanding",
+        "Automatic categorization",
+        "Keyword extraction"
+      ],
+      "implementation": "BeautifulSoup + trafilatura + custom parsers for game content"
+    },
+    "adaptive_learning": {
+      "description": "Learning from user behavior and game patterns for optimization",
+      "advantages": [
+        "Improves over time",
+        "User-specific optimization",
+        "Pattern recognition",
+        "Efficiency gains"
+      ],
+      "implementation": "Record actions, analyze patterns, optimize sequences"
+    }
+  },
+  "best_practices": {
+    "rate_limiting": "Always implement delays between requests to avoid detection",
+    "error_handling": "Robust error handling with fallback methods",
+    "user_agent_rotation": "Rotate user agents to appear more human-like",
+    "memory_management": "Clean up resources and handle memory efficiently", 
+    "logging": "Comprehensive logging for debugging and monitoring",
+    "modularity": "Keep code modular for easy maintenance and updates",
+    "safety_checks": "Implement safety mechanisms to prevent unintended actions"
+  },
+  "integration_points": {
+    "vision_system": "Coordinate recording and pixel detection integrate with computer vision",
+    "automation_engine": "Action recording and playback integrate with automation execution",
+    "learning_system": "Adaptive learning and pattern recognition integrate with AI learning",
+    "knowledge_manager": "Web scraping and data extraction integrate with knowledge storage",
+    "macro_system": "All recording tools integrate with macro creation and playback"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "chests": [
+    {
+      "name": "treasure_chest_golden",
+      "type": "chest",
+      "color_range": {
+        "lower": [15, 100, 120],
+        "upper": [25, 255, 255]
+      },
+      "size_range": {
+        "min_area": 200,
+        "max_area": 5000,
+        "aspect_ratio": 1.2
+      },
+      "features": {
+        "typical_locations": ["dungeon", "treasure_room"],
+        "rarity": "common"
+      }
+    }
+  ],
+  "eggs": [
+    {
+      "name": "dragon_egg",
+      "type": "egg",
+      "color_range": {
+        "lower": [0, 80, 80],
+        "upper": [15, 255, 255]
+      },
+      "size_range": {
+        "min_area": 150,
+        "max_area": 3000,
+        "aspect_ratio": 0.8
+      },
+      "features": {
+        "hatch_time": 300,
+        "rarity": "rare"
+      }
+    }
+  ],
+  "breakables": [
+    {
+      "name": "destructible_object",
+      "type": "breakable",
+      "color_range": {
+        "lower": [100, 50, 50],
+        "upper": [130, 255, 255]
+      },
+      "size_range": {
+        "min_area": 100,
+        "max_area": 4000,
+        "aspect_ratio": 1.0
+      },
+      "features": {
+        "reward_type": "materials",
+        "durability": "low"
+      }
+    }
+  ],
+  "ui_elements": [
+    {
+      "name": "inventory_button",
+      "type": "ui",
+      "color_range": {
+        "lower": [0, 0, 200],
+        "upper": [180, 30, 255]
+      },
+      "size_range": {
+        "min_area": 50,
+        "max_area": 1000,
+        "aspect_ratio": 1.0
+      },
+      "features": {
+        "location": "bottom_right",
+        "function": "open_inventory"
+      }
+    }
+  ],
+  "areas": {
+    "breakables_zone": {
+      "description": "Area with destructible objects",
+      "typical_color_range": {
+        "lower": [100, 50, 50],
+        "upper": [130, 255, 255]
+      },
+      "markers": ["blue_indicators", "zone_boundaries"]
+    },
+    "safe_zone": {
+      "description": "Protected area for players",
+      "typical_color_range": {
+        "lower": [50, 100, 100],
+        "upper": [80, 255, 255]
+      },
+      "markers": ["green_indicators", "peaceful_npcs"]
+    }
+  }
+}

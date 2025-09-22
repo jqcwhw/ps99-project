@@ -1,0 +1,1687 @@
+{
+  "game_info": {
+    "info_0": {
+      "content": "Titanic Pineapple Dog - Found in the Titanic event egg!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 21,
+      "added_at": 1755333578.0015445
+    },
+    "info_1": {
+      "content": "Huge Chill Parrot - Found in the event eggs!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 26,
+      "added_at": 1755333578.0015666
+    },
+    "info_2": {
+      "content": "🌴 Summer Eggs",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 35,
+      "added_at": 1755333578.001603
+    },
+    "info_3": {
+      "content": "Crack open more eggs for the summer pets!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 36,
+      "added_at": 1755333578.001607
+    },
+    "info_4": {
+      "content": "Each egg has a chance to hatch the HUGE Chill Parrot.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 37,
+      "added_at": 1755333578.001611
+    },
+    "info_5": {
+      "content": "Find and unlock the maxed-out 100x HUGE chance egg!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 39,
+      "added_at": 1755333578.0016177
+    },
+    "info_6": {
+      "content": "🥚 Marshlands Eggs",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 63,
+      "added_at": 1755333578.0017262
+    },
+    "info_7": {
+      "content": "👑 MVP Chest Refresh",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 67,
+      "added_at": 1755333578.0017366
+    },
+    "info_8": {
+      "content": "Plus, Exclusive Eggs, Raffle Tickets, Mega Boost Chests, and diamonds!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 74,
+      "added_at": 1755333578.001767
+    },
+    "info_9": {
+      "content": "Plus the Gargantuan Nyan Cat, Titanic Chest Mimic, and Huge Wicked Angelus.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 79,
+      "added_at": 1755333578.0017884
+    },
+    "info_10": {
+      "content": "; This is how you hold one key down and press another key (or keys). ; If one method doesn't work in your program, please try the other. Send \"^s\" ; Both of these send CTRL+S Send \"{Ctrl down}s{Ctrl up}\" ; Both of these send CTRL+S Send \"{Ctrl down}c{Ctrl up}\" Send \"{b down}{b up}\" Send \"{Tab down}{Tab up}\" Send \"{Up down}\" ; Press down the up-arrow key. Sleep 1000 ; Keep it down for one second. Send \"{Up up}\" ; Release the up-arrow key.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 93,
+      "added_at": 1755333649.9199808
+    },
+    "info_11": {
+      "content": "If a game has a cheat prevention system and your hotkeys, hotstrings and Send functions do not work, you are out of luck. However there are methods that can increase the chance of working in some games, but there is no magical \"make it work in my game now!!!\" button. So try all of these before giving up.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 98,
+      "added_at": 1755333649.9200017
+    },
+    "info_12": {
+      "content": "In the following code, both lines are run only if MyVar equals 5:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 125,
+      "added_at": 1755333649.9201007
+    },
+    "info_13": {
+      "content": "; This is how you hold one key down and press another key (or keys). ; If one method doesn't work in your program, please try the other. Send \"^s\" ; Both of these send CTRL+S Send \"{Ctrl down}s{Ctrl up}\" ; Both of these send CTRL+S Send \"{Ctrl down}c{Ctrl up}\" Send \"{b down}{b up}\" Send \"{Tab down}{Tab up}\" Send \"{Up down}\" ; Press down the up-arrow key. Sleep 1000 ; Keep it down for one second. Send \"{Up up}\" ; Release the up-arrow key.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 93,
+      "added_at": 1755333666.434008
+    },
+    "info_14": {
+      "content": "If a game has a cheat prevention system and your hotkeys, hotstrings and Send functions do not work, you are out of luck. However there are methods that can increase the chance of working in some games, but there is no magical \"make it work in my game now!!!\" button. So try all of these before giving up.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 98,
+      "added_at": 1755333666.4340274
+    },
+    "info_15": {
+      "content": "In the following code, both lines are run only if MyVar equals 5:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 125,
+      "added_at": 1755333666.4341269
+    },
+    "info_16": {
+      "content": "(both symbols must appear at the beginning of a line, excluding whitespace).Comments are portions of text within the script which are ignored by the program. They are typically used to add explanation or disable parts of the code.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 14,
+      "added_at": 1755333723.469602
+    },
+    "info_17": {
+      "content": "Implicit concatenation is also known as auto-concat. In both cases, the spaces preceding the variable and dot are mandatory.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 55,
+      "added_at": 1755333723.4698284
+    },
+    "info_18": {
+      "content": "returns 1 only if both keys are being physically held down.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 98,
+      "added_at": 1755333723.4699373
+    },
+    "info_19": {
+      "content": "as a parameter. Both Alpha and Index are variables in this case, and could be replaced with virtually any sub-expression. This syntax is usually used to retrieve an element of an Array or Map. For COM objects, this invokes the default property by ID (DISPID_VALUE), so is different to explicitly specifying the __Item property.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 136,
+      "added_at": 1755333723.4700763
+    },
+    "info_20": {
+      "content": "A collection of thousands of machine learning datasets from financial market data, macroeconomic data, and population growth to cryptocurrency prices. You can access DataHub without any registration.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 40,
+      "added_at": 1755333788.7184405
+    },
+    "info_21": {
+      "content": "The open data from the World Bank that you can access without registration. It contains data concerning population demographics, macroeconomic data, and key indicators for development. A great source of data to perform data analysis at a large scale.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 55,
+      "added_at": 1755333788.7185104
+    },
+    "info_22": {
+      "content": "AEA's website with links to some of the most useful and popular economic data sources. It includes data on U.S macroeconomic as well as individual-level global data on income, employment, and health.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 78,
+      "added_at": 1755333788.718594
+    },
+    "info_23": {
+      "content": "Sentiment Lexicons for 81 Languages is a dataset published on Kaggle. It contains both positive and negative sentiment lexicons for 81 languages. The sentiments were built based on English sentiment lexicons.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 165,
+      "added_at": 1755333788.7189205
+    },
+    "info_24": {
+      "content": "So i made ALL of these AND more during the mining titanic event, these were the first scripts i ever made and my introduction into learning to write them, some may work, some may not, some work as chest breakers since they click on the screen and were made to target breakables and chests, some are outdated, and some were completely useless because these were my very first attempts at scripting, and then, some are exceptional. Have fun testing them out!",
+      "source": "https://github.com/jqcwhw/My-PS99-Creations-",
+      "line_number": 10,
+      "added_at": 1755333896.6521013
+    },
+    "info_25": {
+      "content": "Serpent.AI is a simple yet powerful, novel framework to assist developers in the creation of game agents. Turn ANY video game you own into a sandbox environment ripe for experimentation, all with familiar Python code. The framework's raison d'être is first and foremost to provide a valuable tool for Machine Learning & AI research. It also turns out to be ridiculously fun to use as a hobbyist (and dangerously addictive; a fair warning)!",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 2,
+      "added_at": 1755333944.0483212
+    },
+    "info_26": {
+      "content": "The framework features a large assortment of supporting modules that provide solutions to commonly encountered scenarios when using video games as environments as well as CLI tools to accelerate development. It provides some useful conventions but is absolutely NOT opiniated about what you put in your agents: Want to use the latest, cutting-edge deep reinforcement learning algorithm? ALLOWED. Want to use computer vision techniques, image processing and trigonometry? ALLOWED. Want to randomly press the Left or Right buttons? sigh ALLOWED. To top it all off, Serpent.AI was designed to be entirely plugin-based (for both game support and game agents) so your experiments are actually portable and distributable to your peers and random strangers on the Internet.",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 3,
+      "added_at": 1755333944.0483317
+    },
+    "info_27": {
+      "content": "Experiment: Game agent learning to defeat Monstro (The Binding of Isaac: Afterbirth+)",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 6,
+      "added_at": 1755333944.0483491
+    },
+    "info_28": {
+      "content": "- Thou shall allow a user to bring their own games. Thou shalt not wait for licensing deals and special game APIs.",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 9,
+      "added_at": 1755333944.0483675
+    },
+    "info_29": {
+      "content": "Experiment: Game agent learning to match tiles (You Must Build a Boat)",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 13,
+      "added_at": 1755333944.0483825
+    },
+    "info_30": {
+      "content": "The Pet Simulator 99 API Wrapper is a Python library that allows you to easily access and interact with various data points from the Pet Simulator 99 game through the Big Games API. This wrapper simplifies the process of retrieving information about collections, clans, exist counts, RAP values, and active clan battles.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 2,
+      "added_at": 1755334880.0437603
+    },
+    "info_31": {
+      "content": "This class allows you to retrieve a list of all available collections in the game, such as \"Pets\", \"Achievements\", \"Boosts\", etc.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 9,
+      "added_at": 1755334880.043783
+    },
+    "info_32": {
+      "content": "This class allows you to retrieve exist data for all items and pets in the game.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 47,
+      "added_at": 1755334880.0438912
+    },
+    "info_33": {
+      "content": "This class allows you to retrieve RAP (Recent Average Price) data for all items and pets in the game.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 55,
+      "added_at": 1755334880.0439117
+    },
+    "info_34": {
+      "content": "- Please use this wrapper responsibly and adhere to the Big Games API terms of service.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 117,
+      "added_at": 1755334880.0440757
+    },
+    "info_35": {
+      "content": "The Pet Simulator 99 Public API provides access to in-game data and configuration details. With this API, developers can retrieve information about pets, items, clans, and more, allowing for the creation of external tools, websites, Discord bots, and other applications.",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 1,
+      "added_at": 1755334900.5101163
+    },
+    "info_36": {
+      "content": "fetch('https://ps99.biggamesapi.io/api/collections')",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 4,
+      "added_at": 1755334900.5101335
+    },
+    "info_37": {
+      "content": "response = requests.get('https://ps99.biggamesapi.io/api/collections')",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 10,
+      "added_at": 1755334900.510152
+    },
+    "info_38": {
+      "content": "CURLOPT_URL => 'https://ps99.biggamesapi.io/api/collections',",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 17,
+      "added_at": 1755334900.5101683
+    }
+  },
+  "strategies": [
+    {
+      "content": "Egg luck multipliers increase as you expand your island.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 38,
+      "added_at": 1755333578.0016131
+    },
+    {
+      "content": "Before learning to use AutoHotkey (AHK), you will need to download it. After downloading it, you may possibly need to install it. But that depends on the version you want. For this guide we will use the Installer since it is easiest to set up.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 2,
+      "added_at": 1755333649.9195538
+    },
+    {
+      "content": "The above code is perfectly acceptable. Multiple hotkeys, multiple hotstrings. All in one big happy script file.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 65,
+      "added_at": 1755333649.9198453
+    },
+    {
+      "content": "; Same as above, but with the ENTER key. AHK would type out \"Enter\" if ; it wasn't wrapped in curly brackets. Send \"Multiple Enter lines have Enter been sent.\" ; WRONG Send \"Multiple{Enter}lines have{Enter}been sent.\" ; CORRECT",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 88,
+      "added_at": 1755333649.9199493
+    },
+    {
+      "content": "This is important: Some games, especially multiplayer games, use anti-cheat programs. Things like GameGuard, Hackshield, PunkBuster and several others. Not only is bypassing these systems in violation of the games policies and could get you banned, they are complex to work around.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 97,
+      "added_at": 1755333649.9199972
+    },
+    {
+      "content": "Sometimes you want to have the user to choose the value of stuff. There are several ways of doing this, but the simplest way is InputBox. Here is a simple example on how to ask the user a couple of questions and doing some stuff with what was entered:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 147,
+      "added_at": 1755333649.9201694
+    },
+    {
+      "content": "Before learning to use AutoHotkey (AHK), you will need to download it. After downloading it, you may possibly need to install it. But that depends on the version you want. For this guide we will use the Installer since it is easiest to set up.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 2,
+      "added_at": 1755333666.433625
+    },
+    {
+      "content": "The above code is perfectly acceptable. Multiple hotkeys, multiple hotstrings. All in one big happy script file.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 65,
+      "added_at": 1755333666.4338918
+    },
+    {
+      "content": "; Same as above, but with the ENTER key. AHK would type out \"Enter\" if ; it wasn't wrapped in curly brackets. Send \"Multiple Enter lines have Enter been sent.\" ; WRONG Send \"Multiple{Enter}lines have{Enter}been sent.\" ; CORRECT",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 88,
+      "added_at": 1755333666.4339802
+    },
+    {
+      "content": "This is important: Some games, especially multiplayer games, use anti-cheat programs. Things like GameGuard, Hackshield, PunkBuster and several others. Not only is bypassing these systems in violation of the games policies and could get you banned, they are complex to work around.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 97,
+      "added_at": 1755333666.4340231
+    },
+    {
+      "content": "Sometimes you want to have the user to choose the value of stuff. There are several ways of doing this, but the simplest way is InputBox. Here is a simple example on how to ask the user a couple of questions and doing some stuff with what was entered:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 147,
+      "added_at": 1755333666.4341893
+    },
+    {
+      "content": "Tip: Try-Catch can be used to test for the existence of a hotkey variant. For example:",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 56,
+      "added_at": 1755333695.0263627
+    },
+    {
+      "content": "Operators of equal precedence such as multiply (*",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 86,
+      "added_at": 1755333723.469897
+    },
+    {
+      "content": ") is evaluated after a higher one such as multiply (*",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 89,
+      "added_at": 1755333723.4699054
+    },
+    {
+      "content": "A function call statement can span multiple lines.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 108,
+      "added_at": 1755333723.4699736
+    },
+    {
+      "content": "There are multiple ways to define a function:",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 230,
+      "added_at": 1755333723.4703703
+    },
+    {
+      "content": "Unlike in C/C++, #Include does nothing if the file has already been included by a previous directive. To include the contents of the same file multiple times, use #IncludeAgain.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 256,
+      "added_at": 1755333723.4704592
+    },
+    {
+      "content": "Other programs or scripts can check for this directive for various purposes. For example, the launcher installed with AutoHotkey v2 uses it to determine which AutoHotkey executable to launch, while a script editor or related tools might use it to determine how to interpret or highlight the script file.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/_Requires.htm",
+      "line_number": 22,
+      "added_at": 1755333741.0869086
+    },
+    {
+      "content": "What is Data Labeling and How to Do It Efficiently [Tutorial]",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 209,
+      "added_at": 1755333788.7190595
+    },
+    {
+      "content": "The Complete Guide to CVAT—Pros & Cons",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 211,
+      "added_at": 1755333788.719064
+    },
+    {
+      "content": "Labeling with LabelMe: Step-by-step Guide [Alternatives + Datasets]",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 213,
+      "added_at": 1755333788.719068
+    },
+    {
+      "content": "Guides, tutorials and videos are being produced and added to the GitHub Wiki. It currently is the official source of documentation.",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 12,
+      "added_at": 1755333944.0483794
+    },
+    {
+      "content": "Here are some examples of how to use the Pet Simulator 99 API Wrapper:",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 89,
+      "added_at": 1755334880.0439942
+    }
+  ],
+  "updates": [
+    {
+      "content": "Test new features",
+      "source": "https://m.youtube.com/watch?v=cV3fF1zseOQ",
+      "line_number": 12,
+      "added_at": 1755333540.650045
+    },
+    {
+      "content": "No luck? Go for the new 3 TITANICS and 4 HUGES!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 7,
+      "added_at": 1755333578.0014763
+    },
+    {
+      "content": "New magical zones with glowing rivers and giant mushrooms.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 10,
+      "added_at": 1755333578.00149
+    },
+    {
+      "content": "Discover new shiny relics and a powerful vending machine along the way.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 11,
+      "added_at": 1755333578.0014932
+    },
+    {
+      "content": "Check out the new TITANIC pets, available for a limited time:",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 19,
+      "added_at": 1755333578.0015335
+    },
+    {
+      "content": "A wave of new HUGE pets have arrived!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 24,
+      "added_at": 1755333578.0015576
+    },
+    {
+      "content": "Hatch 9 new pets to boost your island!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 32,
+      "added_at": 1755333578.0015914
+    },
+    {
+      "content": "Find the newest best pet, the Watermelon Golem, in an egg far away!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 33,
+      "added_at": 1755333578.0015943
+    },
+    {
+      "content": "Unlock tiles to reveal the new Block Party Raffle.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 43,
+      "added_at": 1755333578.0016305
+    },
+    {
+      "content": "Compete for new TITANIC and HUGE pets!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 50,
+      "added_at": 1755333578.0016613
+    },
+    {
+      "content": "Plus, the Palace Pooka - the new strongest pet in the game!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 62,
+      "added_at": 1755333578.0017087
+    },
+    {
+      "content": "Unlock and hatch 5 new eggs.",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 64,
+      "added_at": 1755333578.0017292
+    },
+    {
+      "content": "The final egg has the new HUGE Mushroom Dragon!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 65,
+      "added_at": 1755333578.001732
+    },
+    {
+      "content": "New HUGE and TITANIC in the MVP Chest!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 68,
+      "added_at": 1755333578.0017395
+    },
+    {
+      "content": "Cool off with the new Tropical Pack!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 77,
+      "added_at": 1755333578.0017786
+    },
+    {
+      "content": "📅 Update Schedule Change",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 82,
+      "added_at": 1755333578.0017977
+    },
+    {
+      "content": "Hey everyone! Just a quick heads-up that we're shifting from weekly updates to bi-weekly updates (every other week).",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 83,
+      "added_at": 1755333578.0018008
+    },
+    {
+      "content": "This gives us a bit more breathing room to make updates at a better pace. We'll be delivering awesome updates as usual!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 84,
+      "added_at": 1755333578.0018036
+    },
+    {
+      "content": "We've been updating (and you've been playing!) every week since April 27, 2024 (Update #9).",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 85,
+      "added_at": 1755333578.001806
+    },
+    {
+      "content": "Today marks 60 weekly updates, that’s over a year of weekly updates!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 86,
+      "added_at": 1755333578.0018094
+    },
+    {
+      "content": "But now you are wondering \"How can I make my really long Send functions readable?\". Easy. Use what is known as a continuation section. Simply specify an opening parenthesis on a new line, then your content, finally a closing parenthesis on its own line. For more information, read about Continuation Sections.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 94,
+      "added_at": 1755333649.919985
+    },
+    {
+      "content": "There are also known issues with DirectX. If you are having issues and you know the game uses DirectX, try the stuff described on the FAQ page. More DirectX issues may occur when using PixelSearch, PixelGetColor or ImageSearch. Colors might turn out black (0x000000) no matter the color you try to get. You should also try running the game in windowed mode, if possible. That fixes some DirectX issues.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 99,
+      "added_at": 1755333649.9200068
+    },
+    {
+      "content": "This example assigns a new value to a property of the object contained by Banana. If the property doesn't already exist, it is created.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 177,
+      "added_at": 1755333649.9202821
+    },
+    {
+      "content": "MyMap[\"NewerKey\"] := 3.1415",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 184,
+      "added_at": 1755333649.9202986
+    },
+    {
+      "content": "MyObject.NewProperty := \"Shiny\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 186,
+      "added_at": 1755333649.920306
+    },
+    {
+      "content": "As mentioned above, assigning to a property that hasn't already been defined will create a new property.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 187,
+      "added_at": 1755333649.920308
+    },
+    {
+      "content": "InsertAt is a method used to insert new values at a specific position within an Array, but other kinds of objects may also define a method by this name.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 189,
+      "added_at": 1755333649.9203136
+    },
+    {
+      "content": "Push \"appends\" the values to the end of the Array MyArray. It is the preferred way to add new elements to an array, since the bracket notation can't be used to assign outside the current range of values.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 191,
+      "added_at": 1755333649.920319
+    },
+    {
+      "content": "If you try something and it gives you an error, study that error. Then try to fix your code. Then try running it again. If you still get an error, modify your code some more. Keep trying and failing until your code fails no more. You will learn a lot this way by reading the documentation, reading errors and learning what works and what doesn't. Try, fail, try, fail, try, try, try, fail, fail, succeed!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 219,
+      "added_at": 1755333649.920414
+    },
+    {
+      "content": "if (car = \"old\") { MsgBox \"The car is really old.\" if (wheels = \"flat\") { MsgBox \"This car is not safe to drive.\" return } else { MsgBox \"Be careful! This old car will be dangerous to drive.\" } } else { MsgBox \"My, what a shiny new vehicle you have there.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 225,
+      "added_at": 1755333649.9204397
+    },
+    {
+      "content": "if (car = \"old\") { MsgBox \"The car is really old.\" if (wheels = \"flat\") { MsgBox \"This car is not safe to drive.\" return } else { MsgBox \"Be careful! This old car will be dangerous to drive.\" } } else { MsgBox \"My, what a shiny new vehicle you have there.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 227,
+      "added_at": 1755333649.9204423
+    },
+    {
+      "content": "But now you are wondering \"How can I make my really long Send functions readable?\". Easy. Use what is known as a continuation section. Simply specify an opening parenthesis on a new line, then your content, finally a closing parenthesis on its own line. For more information, read about Continuation Sections.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 94,
+      "added_at": 1755333666.4340117
+    },
+    {
+      "content": "There are also known issues with DirectX. If you are having issues and you know the game uses DirectX, try the stuff described on the FAQ page. More DirectX issues may occur when using PixelSearch, PixelGetColor or ImageSearch. Colors might turn out black (0x000000) no matter the color you try to get. You should also try running the game in windowed mode, if possible. That fixes some DirectX issues.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 99,
+      "added_at": 1755333666.4340327
+    },
+    {
+      "content": "This example assigns a new value to a property of the object contained by Banana. If the property doesn't already exist, it is created.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 177,
+      "added_at": 1755333666.4343042
+    },
+    {
+      "content": "MyMap[\"NewerKey\"] := 3.1415",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 184,
+      "added_at": 1755333666.4343207
+    },
+    {
+      "content": "MyObject.NewProperty := \"Shiny\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 186,
+      "added_at": 1755333666.4343283
+    },
+    {
+      "content": "As mentioned above, assigning to a property that hasn't already been defined will create a new property.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 187,
+      "added_at": 1755333666.4343305
+    },
+    {
+      "content": "InsertAt is a method used to insert new values at a specific position within an Array, but other kinds of objects may also define a method by this name.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 189,
+      "added_at": 1755333666.4343355
+    },
+    {
+      "content": "Push \"appends\" the values to the end of the Array MyArray. It is the preferred way to add new elements to an array, since the bracket notation can't be used to assign outside the current range of values.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 191,
+      "added_at": 1755333666.4343412
+    },
+    {
+      "content": "If you try something and it gives you an error, study that error. Then try to fix your code. Then try running it again. If you still get an error, modify your code some more. Keep trying and failing until your code fails no more. You will learn a lot this way by reading the documentation, reading errors and learning what works and what doesn't. Try, fail, try, fail, try, try, try, fail, fail, succeed!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 219,
+      "added_at": 1755333666.4344363
+    },
+    {
+      "content": "if (car = \"old\") { MsgBox \"The car is really old.\" if (wheels = \"flat\") { MsgBox \"This car is not safe to drive.\" return } else { MsgBox \"Be careful! This old car will be dangerous to drive.\" } } else { MsgBox \"My, what a shiny new vehicle you have there.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 225,
+      "added_at": 1755333666.4344766
+    },
+    {
+      "content": "if (car = \"old\") { MsgBox \"The car is really old.\" if (wheels = \"flat\") { MsgBox \"This car is not safe to drive.\" return } else { MsgBox \"Be careful! This old car will be dangerous to drive.\" } } else { MsgBox \"My, what a shiny new vehicle you have there.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 227,
+      "added_at": 1755333666.4344811
+    },
+    {
+      "content": "If KeyName already exists as a hotkey -- either by the Hotkey function or a double-colon label in the script -- that hotkey will be updated with the values of the function's other parameters.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 6,
+      "added_at": 1755333695.0261815
+    },
+    {
+      "content": "When a hotkey is first created -- either by the Hotkey function or the double-colon syntax in the script -- its key name and the ordering of its modifier symbols becomes the permanent name of that hotkey as reflected by ThisHotkey. This name is shared by all variants of the hotkey, and does not change even if the Hotkey function later accesses the hotkey with a different symbol ordering.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 9,
+      "added_at": 1755333695.0262
+    },
+    {
+      "content": "If the hotkey variant already exists, its behavior is updated according to whether KeyName includes or excludes the tilde (~) prefix.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 10,
+      "added_at": 1755333695.0262032
+    },
+    {
+      "content": "The use hook ($) prefix can be added to existing hotkeys. This prefix affects all variants of the hotkey and cannot be removed.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 11,
+      "added_at": 1755333695.0262074
+    },
+    {
+      "content": "If omitted and KeyName already exists as a hotkey, its action will not be changed. This is useful to change only the hotkey's Options. Otherwise, specify a callback, a hotkey name without trailing colons, or one of the special values listed below.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 13,
+      "added_at": 1755333695.0262165
+    },
+    {
+      "content": "Specify the function to call (as a new thread) when the hotkey is pressed.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 14,
+      "added_at": 1755333695.0262184
+    },
+    {
+      "content": "Specify a hotkey name to use its original function; specifically, the original function of the hotkey variant corresponding to the current HotIf criteria. This is usually used to restore a hotkey's original function after having changed it, but can be used to assign the function of a different hotkey, provided that both hotkeys use the same HotIf criteria.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 23,
+      "added_at": 1755333695.0262551
+    },
+    {
+      "content": "If any of the option letters are omitted and the hotkey already exists, those options will not be changed. But if the hotkey does not yet exist -- that is, it is about to be created by this function -- the options will default to those most recently in effect. For example, the instance of #MaxThreadsBuffer that occurs closest to the bottom of the script will be used. If #MaxThreadsBuffer does not appear in the script, its default setting (OFF in this case) will be used.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 42,
+      "added_at": 1755333695.0263174
+    },
+    {
+      "content": "| Unsupported prefix key. | For example, using the mouse wheel as a prefix in a hotkey such as WheelDown & Enter is not supported. Exception.Extra contains the prefix key. |",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 48,
+      "added_at": 1755333695.0263388
+    },
+    {
+      "content": "| This AltTab hotkey must have exactly one modifier/prefix. | The KeyName parameter is not suitable for use with the AltTab or ShiftAltTab actions. A combination of (at most) two keys is required. For example: RControl & RShift::AltTab . Exception.Extra contains KeyName. |",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 50,
+      "added_at": 1755333695.0263426
+    },
+    {
+      "content": "If the script is suspended, newly added/enabled hotkeys will also be suspended until the suspension is turned off (unless they are exempt as described in the Suspend section).",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 62,
+      "added_at": 1755333695.0263908
+    },
+    {
+      "content": "The keyboard and/or mouse hooks will be installed or removed if justified by the changes made by this function.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 63,
+      "added_at": 1755333695.0263932
+    },
+    {
+      "content": "Although the Hotkey function cannot directly enable or disable hotkeys in scripts other than its own, in most cases it can override them by creating or enabling the same hotkeys. Whether this works depends on a combination of factors: 1) Whether the hotkey to be overridden is a hook hotkey in the other script (non-hook hotkeys can always be overridden); 2) The fact that the most recently started script's hotkeys generally take precedence over those in other scripts (therefore, if the script intending to override was started most recently, its override should always succeed); 3) Whether the enabling or creating of this hotkey will newly activate the keyboard or mouse hook (if so, the override will always succeed).",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 64,
+      "added_at": 1755333695.0263991
+    },
+    {
+      "content": ". However, keys must be spelled consistently. For example, Esc is not the same as Escape for this purpose (though the case does not matter). Finally, any hotkey with a wildcard prefix (*) is entirely separate from a non-wildcard one; for example, \"*F1\"",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 72,
+      "added_at": 1755333695.0264328
+    },
+    {
+      "content": "HkGui := Gui() HkGui.Add(\"Text\", \"xm\", \"Prefix key:\") HkGui.Add(\"Edit\", \"yp x100 w100 vPrefix\", \"Space\") HkGui.Add(\"Text\", \"xm\", \"Suffix hotkey:\") HkGui.Add(\"Edit\", \"yp x100 w100 vSuffix\", \"f & j\") HkGui.Add(\"Button\", \"Default\", \"Register\").OnEvent(\"Click\", RegisterHotkey) HkGui.OnEvent(\"Close\", (*) => ExitApp()) HkGui.OnEvent(\"Escape\", (*) => ExitApp()) HkGui.Show() RegisterHotkey(*) { Saved := HkGui.Submit(false) HotIf (*) => GetKeyState(Saved.Prefix) Hotkey Saved.Suffix, (ThisHotkey) => MsgBox(ThisHotkey) }",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 81,
+      "added_at": 1755333695.0264637
+    },
+    {
+      "content": "A constant is simply an unchangeable value, given a symbolic name. AutoHotkey currently has the following constants:",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 62,
+      "added_at": 1755333723.4698486
+    },
+    {
+      "content": "For those new to programming, the requirement for parentheses may seem cryptic or verbose at first, but they are what allows a function call to be combined with other operations. For example, the expression GetKeyState(\"Shift\", \"P\") and GetKeyState(\"Ctrl\", \"P\")",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 97,
+      "added_at": 1755333723.469934
+    },
+    {
+      "content": "Continue skips the rest of the current loop iteration and begins a new one.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 215,
+      "added_at": 1755333723.4702842
+    },
+    {
+      "content": "Global code, or code in the global scope, is any executable code that is not inside a function or class definition. Any variable references there are said to be global, since they can be accessed by any function (with the proper declaration). Such code is often used to configure settings which apply to every newly launched thread, or to initialize global variables used by hotkeys and other functions.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 224,
+      "added_at": 1755333723.4703386
+    },
+    {
+      "content": "A subroutine (also sub or procedure) is a reusable block of code which can be executed on demand. A subroutine is created by defining a function (see below). These terms are generally interchangeable for AutoHotkey v2, where functions are the only type of subroutine.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 227,
+      "added_at": 1755333723.4703622
+    },
+    {
+      "content": "will not run on v2.0-a112. To permit pre-release versions, include a hyphen suffix. For example: v2.0-",
+      "source": "https://www.autohotkey.com/docs/v2/lib/_Requires.htm",
+      "line_number": 25,
+      "added_at": 1755333741.0869198
+    },
+    {
+      "content": "P.S. We will regularly update this list, so feel free to suggest datasets you are using and we will make sure to add them. You can also head over to our Open Datasets repository to browse or download some of the coolest datasets out there.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 24,
+      "added_at": 1755333788.7183838
+    },
+    {
+      "content": "OpenML is an online machine learning platform for sharing and organizing data with more than 21.000 datasets. It’s regularly updated and it automatically versions and analyses each dataset and annotates it with rich meta-data to streamline analysis.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 38,
+      "added_at": 1755333788.7184343
+    },
+    {
+      "content": "Furthermore, the developments in deep learning over the years made it possible to test economic models, collect new sources of data more easily, and predict citizen behavior to help inform policymaking.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 67,
+      "added_at": 1755333788.7185585
+    },
+    {
+      "content": "International Monetary Fund publishes data related to the IMF lending, exchange rates, and other economic and financial indicators.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 76,
+      "added_at": 1755333788.7185867
+    },
+    {
+      "content": "VisualQA is a new dataset containing open-ended questions about images. It includes 265,016 images (COCO and abstract scenes), at least three questions per image, and ten answers per question.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 117,
+      "added_at": 1755333788.7187364
+    },
+    {
+      "content": "An updated version of an Amazon review dataset from 2014. It contains 233.1 million reviews collected between May 1996 and October 2018. Other features include product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs).",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 163,
+      "added_at": 1755333788.7189126
+    },
+    {
+      "content": "20 Newsgroups",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 170,
+      "added_at": 1755333788.7189343
+    },
+    {
+      "content": "A collection of 20,000 documents from over 20 different newsgroups. The content covers a variety of topics with some closely related for reference. There are three versions available: original, sorted by dates, and with removed duplicates.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 171,
+      "added_at": 1755333788.7189374
+    },
+    {
+      "content": "Popular news website that evolved from low-quality clickbait writing to research-driven and high-quality data journalism. BuzzFeed makes their datasets publicly available on Github.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 199,
+      "added_at": 1755333788.7190325
+    },
+    {
+      "content": "ProPublica is an independent, non-profit newsroom focused on issues of public interest in the U.S. It offers both free and paid datasets which are well-maintained and regularly updated.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 201,
+      "added_at": 1755333788.7190373
+    },
+    {
+      "content": "We'd be happy to update the article with your dataset suggestions.",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 206,
+      "added_at": 1755333788.719053
+    },
+    {
+      "content": "You must be signed in to change notification settings - Fork 0",
+      "source": "https://github.com/jqcwhw/Milamoos-PS99-Optimisation-Hub",
+      "line_number": 4,
+      "added_at": 1755333865.419432
+    },
+    {
+      "content": "This is a website / web app ive built to enhance my slow computer. for ps99 but id assume works for anything, need to fix the ahk script output and have the files to do so i just cbf doing it, so its a little unfinished",
+      "source": "https://github.com/jqcwhw/Milamoos-PS99-Optimisation-Hub",
+      "line_number": 5,
+      "added_at": 1755333865.4194365
+    },
+    {
+      "content": "This is a website / web app ive built to enhance my slow computer. for ps99 but id assume works for anything, need to fix the ahk script output and have the files to do so i just cbf doing it, so its a little unfinished",
+      "source": "https://github.com/jqcwhw/Milamoos-PS99-Optimisation-Hub",
+      "line_number": 13,
+      "added_at": 1755333865.419454
+    },
+    {
+      "content": "You must be signed in to change notification settings - Fork 0",
+      "source": "https://github.com/jqcwhw/My-PS99-Creations-",
+      "line_number": 3,
+      "added_at": 1755333896.6520782
+    },
+    {
+      "content": "- The Big Games API and the Pet Simulator 99 game are subject to change. This wrapper may need to be updated to reflect any changes in the API or game data structure.",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 116,
+      "added_at": 1755334880.0440724
+    },
+    {
+      "content": "We strive to maintain backward compatibility with all API versions. Any changes that may affect existing integrations will be clearly documented in the changelog.",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 35,
+      "added_at": 1755334900.5102296
+    }
+  ],
+  "tips": [
+    {
+      "content": "The SUMMER BLOCK PARTY just got even bigger!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 4,
+      "added_at": 1755333578.0014606
+    },
+    {
+      "content": "Enter tickets to win on the GARGANTUAN block!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 6,
+      "added_at": 1755333578.001473
+    },
+    {
+      "content": "The glowing waters of the Enchanted Marshlands!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 9,
+      "added_at": 1755333578.001487
+    },
+    {
+      "content": "Begin in Mystmire Bloom and ascend to Toadstool Throne!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 12,
+      "added_at": 1755333578.0014985
+    },
+    {
+      "content": "Win the GARGANTUAN pet!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 15,
+      "added_at": 1755333578.001511
+    },
+    {
+      "content": "Go for the Gargantuan Dark Dragon!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 16,
+      "added_at": 1755333578.001516
+    },
+    {
+      "content": "Titanic Beach Ball Capybara - Found in the leaderboard contest!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 20,
+      "added_at": 1755333578.0015388
+    },
+    {
+      "content": "Titanic Surfboard Corgi - Found in the Block Party Raffle!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 22,
+      "added_at": 1755333578.0015502
+    },
+    {
+      "content": "Huge Mushroom Dragon - Found in the final zone of Fantasy World!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 25,
+      "added_at": 1755333578.0015626
+    },
+    {
+      "content": "Huge Coconut Flamingo - Found in the leaderboard contest!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 27,
+      "added_at": 1755333578.001572
+    },
+    {
+      "content": "Huge Sandcastle Kraken - Found in the Block Party Raffle!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 28,
+      "added_at": 1755333578.0015767
+    },
+    {
+      "content": "Break coins, grow your island, and enter the raffle!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 42,
+      "added_at": 1755333578.0016277
+    },
+    {
+      "content": "Collect tickets from drops and enter them to win!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 44,
+      "added_at": 1755333578.0016353
+    },
+    {
+      "content": "Chance for the Gargantuan, Titanic, and Huge!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 45,
+      "added_at": 1755333578.00164
+    },
+    {
+      "content": "Finished your island? Rebirth for powerful perks!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 47,
+      "added_at": 1755333578.0016496
+    },
+    {
+      "content": "The rebirth cap has increased from 10 to 15!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 48,
+      "added_at": 1755333578.0016546
+    },
+    {
+      "content": "The higher you place, the better your pet!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 52,
+      "added_at": 1755333578.0016701
+    },
+    {
+      "content": "Rewards range from regular, golden, to rainbow!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 53,
+      "added_at": 1755333578.001675
+    },
+    {
+      "content": "Discover the 5 magical Enchanted Marshlands zones!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 56,
+      "added_at": 1755333578.0016837
+    },
+    {
+      "content": "Progress and unlock the final zone, the Toadstool Throne!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 58,
+      "added_at": 1755333578.0016928
+    },
+    {
+      "content": "Hatch 9 enchanted pets from the Enchanted Marshlands zones!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 60,
+      "added_at": 1755333578.0017016
+    },
+    {
+      "content": "Goodbye to the Exquisite Elephant!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 70,
+      "added_at": 1755333578.0017486
+    },
+    {
+      "content": "The ultimate bundle for the Summer Block Party!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 72,
+      "added_at": 1755333578.0017571
+    },
+    {
+      "content": "Includes the Sun Angelus Gift with a chance for the Huge Watermelon Golem!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 73,
+      "added_at": 1755333578.0017629
+    },
+    {
+      "content": "Limited-time - grab it before the sun sets!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 75,
+      "added_at": 1755333578.001772
+    },
+    {
+      "content": "Featuring the HUGE Surfboard Axolotl, Exclusive Raffle Tickets, and Ghostly Card Packs!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 78,
+      "added_at": 1755333578.001784
+    },
+    {
+      "content": "Limited-time only - don’t miss your chance to gear up!",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 80,
+      "added_at": 1755333578.0017946
+    },
+    {
+      "content": "Thank you very much for your continued support!! ~ Preston & PS99 Dev Team",
+      "source": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "line_number": 87,
+      "added_at": 1755333578.0018146
+    },
+    {
+      "content": "Note: There are exceptions, but those tend to cause confusion a lot of the time. So it won't be covered in the tutorial, at least, not right now.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 30,
+      "added_at": 1755333649.9196684
+    },
+    {
+      "content": "Esc:: { MsgBox \"Escape!!!!\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 31,
+      "added_at": 1755333649.9196723
+    },
+    {
+      "content": "^j:: { MsgBox \"Wow!\" MsgBox \"There are\" Run \"notepad.exe\" WinActivate \"Untitled - Notepad\" WinWaitActive \"Untitled - Notepad\" Send \"7 lines{!}{Enter}\" SendInput \"inside the CTRL{+}J hotkey.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 36,
+      "added_at": 1755333649.9196937
+    },
+    {
+      "content": "You might be wondering \"How the crud am I supposed to know that ^ means Ctrl?!\". Well, good question. To help you learn what ^ and other symbols mean, gaze upon this chart:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 37,
+      "added_at": 1755333649.9196987
+    },
+    {
+      "content": "| ! | Alt |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 41,
+      "added_at": 1755333649.9197068
+    },
+    {
+      "content": "But you are now wondering if hotstrings have any cool modifiers since hotkeys do. Yes, they do! Hotstring modifiers go between the first set of colons. For example:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 50,
+      "added_at": 1755333649.91976
+    },
+    {
+      "content": "; Untitled - Notepad #HotIf WinActive(\"Untitled - Notepad\") !q:: { MsgBox \"You pressed ALT+Q in Notepad.\" } ; Any window that isn't Untitled - Notepad #HotIf !q:: { MsgBox \"You pressed ALT+Q in any window.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 58,
+      "added_at": 1755333649.9198036
+    },
+    {
+      "content": "; Notepad #HotIf WinActive(\"ahk_class Notepad\") #Space:: { MsgBox \"You pressed WIN+SPACE in Notepad.\" } ::msg::You typed msg in Notepad ; MSPaint #HotIf WinActive(\"Untitled - Paint\") #Space:: { MsgBox \"You pressed WIN+SPACE in MSPaint!\" } ::msg::You typed msg in MSPaint!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 61,
+      "added_at": 1755333649.919824
+    },
+    {
+      "content": "| ! | Sends Alt. For example, Send \"This is text!a\" would send the keys \"This is text\" and then press Alt+A. Note: !A produces a different effect in some programs than !a . This is because !A presses Alt+Shift+A and !a presses Alt+A. If in doubt, use lowercase. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 75,
+      "added_at": 1755333649.919891
+    },
+    {
+      "content": "| + | Sends Shift. For example, Send \"+abC\" would send the text \"AbC\", and Send \"!+a\" would press Alt+Shift+A. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 76,
+      "added_at": 1755333649.9198956
+    },
+    {
+      "content": "| ^ | Sends Ctrl. For example, Send \"^!a\" would press Ctrl+Alt+A, and Send \"^{Home}\" would send Ctrl+Home. Note: ^A produces a different effect in some programs than ^a . This is because ^A presses Ctrl+Shift+A and ^a presses Ctrl+A. If in doubt, use lowercase. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 77,
+      "added_at": 1755333649.9199014
+    },
+    {
+      "content": "A common issue lots of people have is, they assume that the curly brackets are put in the documentation pages just for fun. But in fact they are needed. It's how AHK knows that {!}",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 85,
+      "added_at": 1755333649.9199278
+    },
+    {
+      "content": "Send \"This text has been typed{!}\" ; Notice the ! between the curly brackets? That's because if it wasn't, AHK would press the ALT key.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 87,
+      "added_at": 1755333649.919946
+    },
+    {
+      "content": "Note: There are several different forms of Send. Each has their own special features. If one form of Send does not work for your needs, try another type of Send. Simply replace the function name \"Send\" with one of the following: SendText, SendInput, SendPlay, SendEvent. For more information on what each one does, read this.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 96,
+      "added_at": 1755333649.9199955
+    },
+    {
+      "content": "SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 114,
+      "added_at": 1755333649.920065
+    },
+    {
+      "content": "MyVar := SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 116,
+      "added_at": 1755333649.9200716
+    },
+    {
+      "content": "; These are function calls without parentheses: MsgBox \"This is some text.\" StrReplace Input, \"AutoHotKey\", \"AutoHotkey\" SendInput \"This is awesome{!}{!}{!}\" ; These are function calls with parentheses: SubStr(\"I'm scripting, awesome!\", 16) FileExist(VariableContainingPath) Output := SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 121,
+      "added_at": 1755333649.920088
+    },
+    {
+      "content": "if (MyVar = 5) { MsgBox \"MyVar equals \" MyVar \"!!\" ExitApp }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 126,
+      "added_at": 1755333649.9201052
+    },
+    {
+      "content": "if (MyVar = 5) MsgBox \"MyVar equals \" MyVar \"!!\" ExitApp",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 128,
+      "added_at": 1755333649.9201164
+    },
+    {
+      "content": "if (MyVar = 5) MsgBox \"MyVar equals \" MyVar \"!!\" MsgBox \"We are now 'outside' of the if-statement. We did not need curly brackets since there was only one line below it.\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 130,
+      "added_at": 1755333649.9201286
+    },
+    {
+      "content": "Thanks to expressions, you can do math!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 139,
+      "added_at": 1755333649.920156
+    },
+    {
+      "content": "IB1 := InputBox(\"What is your first name?\", \"Question 1\") if IB1.Value = \"Bill\" MsgBox \"That's an awesome name, \" IB1.Value \".\" IB2 := InputBox(\"Do you like AutoHotkey?\", \"Question 2\") if IB2.Value = \"yes\" MsgBox \"Thank you for answering \" IB2.Value \", \" IB1.Value \"! We will become great friends.\" else MsgBox IB1.Value \", That makes me sad.\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 148,
+      "added_at": 1755333649.9201767
+    },
+    {
+      "content": "Var := \"text\" ; Assign some text to a variable. Num := 6 ; Assign a number to a variable. Var2 := Var ; Assign a variable to another. Var3 .= Var ; Append a variable to the end of another. Var4 += Num ; Add the value of a variable to another. Var4 -= Num ; Subtract the value of a variable from another. Var5 := SubStr(Var, 2, 2) ; Variable inside a function. Var6 := Var \"Text\" ; Assigns a variable to another with some extra text. MsgBox(Var) ; Variable inside a function. MsgBox Var ; Same as above. Var := StrSplit(Var, \"x\") ; Variable inside a function that uses InputVar and OutputVar. if (Num = 6) ; Check if a variable is equal to a number. if Num = 6 ; Same as above. if (Var != Num) ; Check if a variable is not equal to another. if Var1 < Var2 ; Check if a variable is lesser than another.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 150,
+      "added_at": 1755333649.9201944
+    },
+    {
+      "content": "MyMap := Map(\"^\", \"Ctrl\", \"!\", \"Alt\")",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 164,
+      "added_at": 1755333649.9202406
+    },
+    {
+      "content": "is associated with the key \"!\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 168,
+      "added_at": 1755333649.9202516
+    },
+    {
+      "content": "We have reached the end of our journey, my good friend. I hope you have learned something. But before we go, here are some other things that I think you should know. Enjoy!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 200,
+      "added_at": 1755333649.9203517
+    },
+    {
+      "content": ") surrounding code in the yellow syntax box at the top of almost all pages. Anything inside of these brackets are optional. Meaning the stuff inside can be left out if you don't need them. When writing your code, it is very important to not type the square brackets in your code.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 203,
+      "added_at": 1755333649.920362
+    },
+    {
+      "content": "What if you wanted to use ExcludeTitle but not fill in WinText or WinTitle? Simple!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 210,
+      "added_at": 1755333649.920383
+    },
+    {
+      "content": "This stuff (indentation) is very important! Your code will run perfectly fine without it, but it will be a major headache for you and other to read your code. Small code (25 lines or less) will probably be fine to read without indentation, but it'll soon get sloppy. It's best you learn to indent ASAP. Indentation has no set style, but it's best to keep everything consistent.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "line_number": 222,
+      "added_at": 1755333649.9204302
+    },
+    {
+      "content": "Note: There are exceptions, but those tend to cause confusion a lot of the time. So it won't be covered in the tutorial, at least, not right now.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 30,
+      "added_at": 1755333666.433747
+    },
+    {
+      "content": "Esc:: { MsgBox \"Escape!!!!\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 31,
+      "added_at": 1755333666.4337523
+    },
+    {
+      "content": "^j:: { MsgBox \"Wow!\" MsgBox \"There are\" Run \"notepad.exe\" WinActivate \"Untitled - Notepad\" WinWaitActive \"Untitled - Notepad\" Send \"7 lines{!}{Enter}\" SendInput \"inside the CTRL{+}J hotkey.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 36,
+      "added_at": 1755333666.4337797
+    },
+    {
+      "content": "You might be wondering \"How the crud am I supposed to know that ^ means Ctrl?!\". Well, good question. To help you learn what ^ and other symbols mean, gaze upon this chart:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 37,
+      "added_at": 1755333666.4337847
+    },
+    {
+      "content": "| ! | Alt |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 41,
+      "added_at": 1755333666.433793
+    },
+    {
+      "content": "But you are now wondering if hotstrings have any cool modifiers since hotkeys do. Yes, they do! Hotstring modifiers go between the first set of colons. For example:",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 50,
+      "added_at": 1755333666.433826
+    },
+    {
+      "content": "; Untitled - Notepad #HotIf WinActive(\"Untitled - Notepad\") !q:: { MsgBox \"You pressed ALT+Q in Notepad.\" } ; Any window that isn't Untitled - Notepad #HotIf !q:: { MsgBox \"You pressed ALT+Q in any window.\" }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 58,
+      "added_at": 1755333666.433861
+    },
+    {
+      "content": "; Notepad #HotIf WinActive(\"ahk_class Notepad\") #Space:: { MsgBox \"You pressed WIN+SPACE in Notepad.\" } ::msg::You typed msg in Notepad ; MSPaint #HotIf WinActive(\"Untitled - Paint\") #Space:: { MsgBox \"You pressed WIN+SPACE in MSPaint!\" } ::msg::You typed msg in MSPaint!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 61,
+      "added_at": 1755333666.4338763
+    },
+    {
+      "content": "| ! | Sends Alt. For example, Send \"This is text!a\" would send the keys \"This is text\" and then press Alt+A. Note: !A produces a different effect in some programs than !a . This is because !A presses Alt+Shift+A and !a presses Alt+A. If in doubt, use lowercase. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 75,
+      "added_at": 1755333666.4339328
+    },
+    {
+      "content": "| + | Sends Shift. For example, Send \"+abC\" would send the text \"AbC\", and Send \"!+a\" would press Alt+Shift+A. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 76,
+      "added_at": 1755333666.4339368
+    },
+    {
+      "content": "| ^ | Sends Ctrl. For example, Send \"^!a\" would press Ctrl+Alt+A, and Send \"^{Home}\" would send Ctrl+Home. Note: ^A produces a different effect in some programs than ^a . This is because ^A presses Ctrl+Shift+A and ^a presses Ctrl+A. If in doubt, use lowercase. |",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 77,
+      "added_at": 1755333666.4339428
+    },
+    {
+      "content": "A common issue lots of people have is, they assume that the curly brackets are put in the documentation pages just for fun. But in fact they are needed. It's how AHK knows that {!}",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 85,
+      "added_at": 1755333666.4339693
+    },
+    {
+      "content": "Send \"This text has been typed{!}\" ; Notice the ! between the curly brackets? That's because if it wasn't, AHK would press the ALT key.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 87,
+      "added_at": 1755333666.4339786
+    },
+    {
+      "content": "Note: There are several different forms of Send. Each has their own special features. If one form of Send does not work for your needs, try another type of Send. Simply replace the function name \"Send\" with one of the following: SendText, SendInput, SendPlay, SendEvent. For more information on what each one does, read this.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 96,
+      "added_at": 1755333666.434022
+    },
+    {
+      "content": "SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 114,
+      "added_at": 1755333666.434091
+    },
+    {
+      "content": "MyVar := SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 116,
+      "added_at": 1755333666.4340978
+    },
+    {
+      "content": "; These are function calls without parentheses: MsgBox \"This is some text.\" StrReplace Input, \"AutoHotKey\", \"AutoHotkey\" SendInput \"This is awesome{!}{!}{!}\" ; These are function calls with parentheses: SubStr(\"I'm scripting, awesome!\", 16) FileExist(VariableContainingPath) Output := SubStr(\"I'm scripting, awesome!\", 16)",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 121,
+      "added_at": 1755333666.4341142
+    },
+    {
+      "content": "if (MyVar = 5) { MsgBox \"MyVar equals \" MyVar \"!!\" ExitApp }",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 126,
+      "added_at": 1755333666.4341302
+    },
+    {
+      "content": "if (MyVar = 5) MsgBox \"MyVar equals \" MyVar \"!!\" ExitApp",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 128,
+      "added_at": 1755333666.4341376
+    },
+    {
+      "content": "if (MyVar = 5) MsgBox \"MyVar equals \" MyVar \"!!\" MsgBox \"We are now 'outside' of the if-statement. We did not need curly brackets since there was only one line below it.\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 130,
+      "added_at": 1755333666.4341478
+    },
+    {
+      "content": "Thanks to expressions, you can do math!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 139,
+      "added_at": 1755333666.4341753
+    },
+    {
+      "content": "IB1 := InputBox(\"What is your first name?\", \"Question 1\") if IB1.Value = \"Bill\" MsgBox \"That's an awesome name, \" IB1.Value \".\" IB2 := InputBox(\"Do you like AutoHotkey?\", \"Question 2\") if IB2.Value = \"yes\" MsgBox \"Thank you for answering \" IB2.Value \", \" IB1.Value \"! We will become great friends.\" else MsgBox IB1.Value \", That makes me sad.\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 148,
+      "added_at": 1755333666.4341965
+    },
+    {
+      "content": "Var := \"text\" ; Assign some text to a variable. Num := 6 ; Assign a number to a variable. Var2 := Var ; Assign a variable to another. Var3 .= Var ; Append a variable to the end of another. Var4 += Num ; Add the value of a variable to another. Var4 -= Num ; Subtract the value of a variable from another. Var5 := SubStr(Var, 2, 2) ; Variable inside a function. Var6 := Var \"Text\" ; Assigns a variable to another with some extra text. MsgBox(Var) ; Variable inside a function. MsgBox Var ; Same as above. Var := StrSplit(Var, \"x\") ; Variable inside a function that uses InputVar and OutputVar. if (Num = 6) ; Check if a variable is equal to a number. if Num = 6 ; Same as above. if (Var != Num) ; Check if a variable is not equal to another. if Var1 < Var2 ; Check if a variable is lesser than another.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 150,
+      "added_at": 1755333666.4342139
+    },
+    {
+      "content": "MyMap := Map(\"^\", \"Ctrl\", \"!\", \"Alt\")",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 164,
+      "added_at": 1755333666.4342608
+    },
+    {
+      "content": "is associated with the key \"!\"",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 168,
+      "added_at": 1755333666.4342718
+    },
+    {
+      "content": "We have reached the end of our journey, my good friend. I hope you have learned something. But before we go, here are some other things that I think you should know. Enjoy!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 200,
+      "added_at": 1755333666.4343736
+    },
+    {
+      "content": ") surrounding code in the yellow syntax box at the top of almost all pages. Anything inside of these brackets are optional. Meaning the stuff inside can be left out if you don't need them. When writing your code, it is very important to not type the square brackets in your code.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 203,
+      "added_at": 1755333666.4343836
+    },
+    {
+      "content": "What if you wanted to use ExcludeTitle but not fill in WinText or WinTitle? Simple!",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 210,
+      "added_at": 1755333666.4344053
+    },
+    {
+      "content": "This stuff (indentation) is very important! Your code will run perfectly fine without it, but it will be a major headache for you and other to read your code. Small code (25 lines or less) will probably be fine to read without indentation, but it'll soon get sloppy. It's best you learn to indent ASAP. Indentation has no set style, but it's best to keep everything consistent.",
+      "source": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "line_number": 222,
+      "added_at": 1755333666.4344602
+    },
+    {
+      "content": "When specifying an existing hotkey, KeyName is not case-sensitive. However, the names of keys must be spelled the same as in the existing hotkey (e.g. Esc is not the same as Escape for this purpose). Also, the order of modifier symbols such as ^!+#",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 7,
+      "added_at": 1755333695.02619
+    },
+    {
+      "content": "Note: If a callback is specified but the hotkey is disabled from a previous use of the Hotkey function, the hotkey will remain disabled. To prevent this, include the word ON in Options.",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 22,
+      "added_at": 1755333695.0262492
+    },
+    {
+      "content": "| ValueError | Invalid key name. | The KeyName parameter specifies one or more keys that are either not recognized or not supported by the current keyboard layout/language. Exception.Extra contains the key name; e.g. \"Entre\" from !Entre . |",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 47,
+      "added_at": 1755333695.0263357
+    },
+    {
+      "content": "try Hotkey \"^!p\" catch TargetError MsgBox \"The hotkey does not exist or it has no variant for the current HotIf criteria.\"",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 57,
+      "added_at": 1755333695.0263672
+    },
+    {
+      "content": "If the goal is to disable selected hotkeys or hotstrings automatically based on the type of window that is active, Hotkey \"^!c\", \"Off\"",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 59,
+      "added_at": 1755333695.0263758
+    },
+    {
+      "content": "HotIfWinActive \"ahk_class Notepad\" Hotkey \"^!c\", MyFuncForNotepad HotIfWinActive \"ahk_class WordPadClass\" Hotkey \"^!c\", MyFuncForWordPad HotIfWinActive Hotkey \"^!c\", MyFuncForAllOtherWindows",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 67,
+      "added_at": 1755333695.026413
+    },
+    {
+      "content": "When creating duplicate hotkeys, the order of modifier symbols such as ^!+#",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 69,
+      "added_at": 1755333695.0264227
+    },
+    {
+      "content": "does not matter. For example, \"^!c\"",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 70,
+      "added_at": 1755333695.0264263
+    },
+    {
+      "content": "is the same as \"!^c\"",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 71,
+      "added_at": 1755333695.0264294
+    },
+    {
+      "content": "Hotkey \"^!z\", MyFunc MyFunc(ThisHotkey) { MsgBox \"You pressed \" ThisHotkey }",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 77,
+      "added_at": 1755333695.026447
+    },
+    {
+      "content": "HotIfWinActive \"ahk_class Notepad\" Hotkey \"!w\", ToggleWordWrap ; !w = Alt+W ToggleWordWrap(ThisHotkey) { MenuSelect \"A\",, \"Format\", \"Word Wrap\" }",
+      "source": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "line_number": 79,
+      "added_at": 1755333695.026455
+    },
+    {
+      "content": "Spaces are mostly ignored: Indentation (leading space) is important for writing readable code, but is not required by the program and is generally ignored. Spaces and tabs are generally ignored at the end of a line and within an expression (except between quotes). However, spaces are significant in some cases, including:",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 8,
+      "added_at": 1755333723.4695773
+    },
+    {
+      "content": "Note: There must not be any space between the function and open parenthesis.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 96,
+      "added_at": 1755333723.4699311
+    },
+    {
+      "content": "Note: The condition cannot begin with !",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 173,
+      "added_at": 1755333723.470176
+    },
+    {
+      "content": "Function call statements are similar to expression statements, but are technically not pure expressions. For example, MsgBox \"Hello, world!\"",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 183,
+      "added_at": 1755333723.4702196
+    },
+    {
+      "content": "SayHello() ; Define the SayHello function. { MsgBox \"Hello!\" } SayHello ; Call the SayHello function.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 231,
+      "added_at": 1755333723.4703743
+    },
+    {
+      "content": "SetTimer () => MsgBox(\"Hello!\"), -1000 ; Says hello after 1 second.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 233,
+      "added_at": 1755333723.4703815
+    },
+    {
+      "content": "SayHello() => MsgBox(\"Hello!\")",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 234,
+      "added_at": 1755333723.4703844
+    },
+    {
+      "content": "Note: A variable cannot be created by a dynamic reference, but existing variables can be assigned. This includes all variables which the script contains non-dynamic references to, even if they have not been assigned values.",
+      "source": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "line_number": 259,
+      "added_at": 1755333723.4704733
+    },
+    {
+      "content": "Whether you are a student or a professional looking for high-quality datasets for machine learning or data analysis projects—we’ve got you covered!",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 12,
+      "added_at": 1755333788.7183444
+    },
+    {
+      "content": "Have a look!",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 129,
+      "added_at": 1755333788.718777
+    },
+    {
+      "content": "And if not—let us know!",
+      "source": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "line_number": 205,
+      "added_at": 1755333788.7190511
+    },
+    {
+      "content": "Development work has resumed on the framework with the aim of bringing it into 2020: Python 3.8+, Less Dependencies, Ease of Use (Installer, GUI) and much more! Still open-source with a permissive license and looking into a Steam distribution for non-technical users. 🐍",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 1,
+      "added_at": 1755333944.0483055
+    },
+    {
+      "content": "Want to know more about how Serpent.AI came to be? Read The Story Behind Serpent.AI on the blog!",
+      "source": "https://github.com/SerpentAI/SerpentAI",
+      "line_number": 11,
+      "added_at": 1755333944.0483778
+    },
+    {
+      "content": "I hope this documentation helps you effectively use the Pet Simulator 99 API Wrapper!",
+      "source": "https://github.com/YbicG/petsim-py",
+      "line_number": 118,
+      "added_at": 1755334880.04408
+    },
+    {
+      "content": "Explore the endpoints and integrate them into your applications! Happy coding!",
+      "source": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "line_number": 37,
+      "added_at": 1755334900.510238
+    }
+  ],
+  "external_sources": [
+    {
+      "url": "https://m.youtube.com/watch?v=cV3fF1zseOQ",
+      "url_hash": "5f44a6bcfa7b2940e9e15a7b3a61de2a",
+      "scraped_at": 1755333540.6500545,
+      "title": "About",
+      "content_length": 164,
+      "processed_items": 1
+    },
+    {
+      "url": "https://www.biggames.io/post/pet-simulator-99-update-69",
+      "url_hash": "6d57ce7e8d90bab09de17aa4fe6bc746",
+      "scraped_at": 1755333578.0018172,
+      "title": "Gargantuan Party",
+      "content_length": 3883,
+      "processed_items": 58
+    },
+    {
+      "url": "https://www.google.com/m?q=autohotkey%20v2%20game%20macros&channel=new&espv=1&client=ms-opera-touch-iphone&tpsf=opmenpf",
+      "url_hash": "549f6462fcb6de54d94c7d923643a822",
+      "scraped_at": 1755333614.9119487,
+      "title": "Please click",
+      "content_length": 154,
+      "processed_items": 0
+    },
+    {
+      "url": "https://www.autohotkey.com/docs/v2/Tutorial.htm",
+      "url_hash": "a76750c7fec884968ec61dda3054c6fc",
+      "scraped_at": 1755333649.920465,
+      "title": "Before we begin our journey, let me give some advice. Throughout this tutorial you will see a lot of",
+      "content_length": 27138,
+      "processed_items": 48
+    },
+    {
+      "url": "https://www.autohotkey.com/docs/v2/Tutorial.htm#s12",
+      "url_hash": "b8cc3df817f38d72248371f4677c3921",
+      "scraped_at": 1755333666.4345043,
+      "title": "Before we begin our journey, let me give some advice. Throughout this tutorial you will see a lot of",
+      "content_length": 27138,
+      "processed_items": 48
+    },
+    {
+      "url": "https://www.autohotkey.com/docs/v2/lib/Hotkey.htm",
+      "url_hash": "9bdacef3479de6b17ff9404a720ad46e",
+      "scraped_at": 1755333695.026467,
+      "title": "Creates, modifies, enables, or disables a hotkey while the script is running.",
+      "content_length": 10581,
+      "processed_items": 27
+    },
+    {
+      "url": "https://www.autohotkey.com/docs/v2/Language.htm",
+      "url_hash": "cec103229d5be8707ce4dd6b91da1bcf",
+      "scraped_at": 1755333723.4705436,
+      "title": "An AutoHotkey script is basically a set of instructions for the program to follow, written in a cust",
+      "content_length": 25662,
+      "processed_items": 22
+    },
+    {
+      "url": "https://www.autohotkey.com/docs/v2/lib/_Requires.htm",
+      "url_hash": "d7ac69504445d55616c47a7446f7d8b9",
+      "scraped_at": 1755333741.0869355,
+      "title": "Displays an error and quits if a version requirement is not met.",
+      "content_length": 2709,
+      "processed_items": 2
+    },
+    {
+      "url": "https://www.v7labs.com/blog/best-free-datasets-for-machine-learning",
+      "url_hash": "7765137d1f3d7a0dac172fa723f29e0b",
+      "scraped_at": 1755333788.719072,
+      "title": "Computer vision",
+      "content_length": 22019,
+      "processed_items": 21
+    },
+    {
+      "url": "https://github.com/jqcwhw/Milamoos-PS99-Optimisation-Hub",
+      "url_hash": "50dc91aff04f3b767571466c65611af3",
+      "scraped_at": 1755333865.419463,
+      "title": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+      "content_length": 869,
+      "processed_items": 3
+    },
+    {
+      "url": "https://github.com/jqcwhw/My-PS99-Creations-",
+      "url_hash": "af61286df244f4c2522bd30c385d2091",
+      "scraped_at": 1755333896.6521144,
+      "title": "-",
+      "content_length": 850,
+      "processed_items": 2
+    },
+    {
+      "url": "https://github.com/jqcwhw/My-PS99-Creations-/blob/main/PS99MiningBot.ahk",
+      "url_hash": "2aee2c8f37e0c0c913120aa27d0d6491",
+      "scraped_at": 1755333916.5988808,
+      "title": "We read every piece of feedback, and take your input very seriously.",
+      "content_length": 183,
+      "processed_items": 0
+    },
+    {
+      "url": "https://github.com/SerpentAI/SerpentAI",
+      "url_hash": "7f9012f2344bbced7624f4cdfd80cd7f",
+      "scraped_at": 1755333944.048387,
+      "title": "Development work has resumed on the framework with the aim of bringing it into 2020: Python 3.8+, Le",
+      "content_length": 2858,
+      "processed_items": 8
+    },
+    {
+      "url": "https://github.com/SerpentAI/SerpentAI/tree/dev/serpent",
+      "url_hash": "2705ff79eaa8b0250df2bb20607805d9",
+      "scraped_at": 1755333973.2518559,
+      "title": "You signed in with another tab or window. Reload to refresh your session.You signed out in another t",
+      "content_length": 331,
+      "processed_items": 0
+    },
+    {
+      "url": "https://github.com/SerpentAI/SerpentAI/blob/dev/serpent/machine_learning/object_recognition/object_recognizers/luminoth_object_recognizer.py",
+      "url_hash": "61f35d85ac2e53856cd1eebd2e5760d1",
+      "scraped_at": 1755334000.209023,
+      "title": "You signed in with another tab or window. Reload to refresh your session.You signed out in another t",
+      "content_length": 331,
+      "processed_items": 0
+    },
+    {
+      "url": "https://github.com/SerpentAI/SerpentAI/blob/dev/serpent/machine_learning/object_recognition/object_recognizer.py",
+      "url_hash": "3fc08e61e5da7b02986a184ed3da7068",
+      "scraped_at": 1755334023.687008,
+      "title": "You signed in with another tab or window. Reload to refresh your session.You signed out in another t",
+      "content_length": 331,
+      "processed_items": 0
+    },
+    {
+      "url": "https://github.com/YbicG/petsim-py",
+      "url_hash": "002af8a9f5838a049911004bde0c4263",
+      "scraped_at": 1755334880.044083,
+      "title": "This document provides detailed information about the Pet Simulator 99 API Wrapper and its functiona",
+      "content_length": 5638,
+      "processed_items": 8
+    },
+    {
+      "url": "https://github.com/BIG-Games-LLC/ps99-public-api-docs.git",
+      "url_hash": "31567729864bb47265602d024a49c5bd",
+      "scraped_at": 1755334900.5102406,
+      "title": "The Pet Simulator 99 Public API provides access to in-game data and configuration details. With this",
+      "content_length": 2341,
+      "processed_items": 6
+    }
+  ],
+  "file_sources": [],
+  "learned_patterns": {},
+  "metadata": {
+    "last_updated": 1755334900.5103016,
+    "version": "1.0",
+    "total_items": 272
+  }
+}

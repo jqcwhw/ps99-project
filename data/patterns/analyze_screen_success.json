@@ -1,0 +1,8 @@
+{
+  "occurrences": 5,
+  "common_context": {
+    "command": "analyze screen"
+  },
+  "context_ranges": {},
+  "success_rate": 1.0
+}

@@ -1,0 +1,33 @@
+{
+  "example_chest_farming": {
+    "name": "example_chest_farming",
+    "description": "Example macro for chest farming routine",
+    "actions": [
+      {
+        "type": "mouse_move",
+        "x": 400,
+        "y": 300,
+        "timestamp": 1640995200.0,
+        "delay": 0.5
+      },
+      {
+        "type": "mouse_click",
+        "x": 400,
+        "y": 300,
+        "button": "left",
+        "clicks": 2,
+        "timestamp": 1640995200.5,
+        "delay": 0.3
+      },
+      {
+        "type": "wait",
+        "duration": 1.0,
+        "timestamp": 1640995201.0,
+        "delay": 0.2
+      }
+    ],
+    "duration": 2.0,
+    "created_at": 1640995200.0,
+    "action_count": 3
+  }
+}
