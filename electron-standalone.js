@@ -1,12 +1,12 @@
-const { app, BrowserWindow, Menu, dialog, shell } = require('electron');
-const path = require('path');
-const { spawn } = require('child_process');
-const express = require('express');
-const cors = require('cors');
+const { app, BrowserWindow, Menu, dialog, shell } = ('electron');
+const path = ('path');
+const { spawn } = ('child_process');
+const express = ('express');
+const cors = ('cors');
 
 // Enable live reload for development
 if (process.env.NODE_ENV === 'development') {
-  require('electron-reload')(__dirname, {
+   ('electron-reload')(__dirname, {
     electron: path.join(__dirname, 'node_modules', '.bin', 'electron'),
     hardResetMethod: 'exit'
   });
