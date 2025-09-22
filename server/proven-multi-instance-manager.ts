@@ -10,7 +10,42 @@ import { promisify } from 'util';
 import * as fs from 'fs';
 import * as path from 'path';
 
-const execAsync = promisify(exec);
+const { spawn } = require("child_process");
+
+const { spawn } = require("child_process");
+
+const ps = spawn("powershell.exe", ["-NoLogo", "-NoProfile", "-File", "path/to/script.ps1"]);
+
+ps.stdout.on("data", (data) => {
+  console.log(`Output: ${data}`);
+});
+
+ps.stderr.on("data", (data) => {
+  console.error(`Error: ${data}`);
+});
+
+ps.on("exit", (code) => {
+  console.log(`PowerShell script exited with code ${code}`);
+});
+
+const { exec } = require('child_process');
+
+exec('powershell.exe -Command "Get-Process | ConvertTo-Json"', (error, stdout, stderr) => {
+  if (error) {
+    console.error(`Error: ${error.message}`);
+    return;
+  }
+  if (stderr) {
+    console.error(`Stderr: ${stderr}`);
+    return;
+  }
+  try {
+    const jsonOutput = JSON.parse(stdout);
+    console.log(jsonOutput);
+  } catch (parseError) {
+    console.error(`JSON Parse Error: ${parseError.message}`);
+  }
+});
 
 export interface ProvenRobloxClient {
   pid: number;
@@ -91,6 +126,22 @@ export class ProvenMultiInstanceManager extends EventEmitter {
       `;
 
       // Alternative PowerShell method (more reliable)
+const { spawn } = require("child_process");
+
+// Spawn a PowerShell process
+const ps = spawn("powershell.exe", ["-NoLogo", "-NoProfile", "-Command", "Get-Process"]);
+
+ps.stdout.on("data", (data) => {
+  console.log(`Output: ${data}`);
+});
+
+ps.stderr.on("data", (data) => {
+  console.error(`Error: ${data}`);
+});
+
+ps.on("exit", (code) => {
+  console.log(`PowerShell process exited with code ${code}`);
+});
       const psScript = `
         Add-Type -TypeDefinition @"
           using System;
